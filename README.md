@@ -21,7 +21,8 @@ Após abrir o cypress com o comando "npx cypress open" você deve escolher E2E T
 Clicando em "Scaffold example specs" deverá aparecer a seguinte tela ![image](https://github.com/user-attachments/assets/dff959e0-ecef-45e1-9302-0cc3e3e258a4)
  , basta clicar em OK.
 
-Após isso em seu IDE, deverá aparecer outra pasta chamada cypress, dessa forma imagem . Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypress\e2e\1-getting-started. Após os arquivos movidos voce ja o enxerga na tela do cipreste para rodar os testes.
+Após isso em seu IDE, deverá aparecer outra pasta chamada cypress, dessa forma ![image](https://github.com/user-attachments/assets/a41d23ed-b978-40b5-bbe2-c60a151a2f8f)
+ . Após aparecer a pasta, basta mover os arquivos de teste para este caminho cypress\e2e\1-getting-started. Após os arquivos movidos voce ja o enxerga na tela do cipreste para rodar os testes.
 
 OBS:::: Não é recomendado mover a pasta para a pasta 1-primeiros passos, somente os arquivos dentro da pasta para os testes rodarem
 
